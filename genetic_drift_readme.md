@@ -50,14 +50,5 @@ p-value.
 
 **Example**
 
-![import matplotlib. pyplot PI t as \# generate population and
-initialize data lists population = first_gen() allele_freqs = AA---freq
-= CO\]\] Aa_freq = C 1\]\] aa_freq = \# simulate genetic drift for 50
-generations for i in range(5Ø) next_gen(population) al lele_freqs.
-AA_freq. st ri but ion(populati on) ) Aa_freq. st ri but ion(populati
-on) \[1\] ) aa_freq. st ri but ion(populati on) \[2\] ) allele_freqs\] ,
-allele_freqs\] , \# plot allele frequencies plt.p10t(CXC 0 for in x
-plt.p10t(CXC 1 for in x plt. legend() plt. showO \# test for
-Hardy-Weinberg Equilibrium label= label= test_HWE(AA_freqC-1\],
-Aa_freqC-1\], aa_freqC- ](media/image2.png){width="5.541666666666667in"
-height="4.847222222222222in"}
+!["2p"](https://raw.githubusercontent.com/username/repo-name/branch-name/Users/samira/Desktop/2p.png)
+
