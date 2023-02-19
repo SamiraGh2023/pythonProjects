@@ -8,7 +8,7 @@ selecting individuals to produce offspring in each generation.
 
 **Usage**
 
-!["1p"](https://raw.githubusercontent.com/samiraGh2023/pythonProjects/Users/samira/Desktop/1p.png)
+!["1p"](https://raw.githubusercontent.com/samiraGh2023/pythonProjects/main/Users/samira/Desktop/1p.png)
 
 -   gen : Number of generations to simulate.
 
@@ -50,5 +50,5 @@ p-value.
 
 **Example**
 
-!["2p"](https://raw.githubusercontent.com/samiraGh2023/pythonProjects/genetic_drift_readme/Users/samira/Desktop/2p.png)
+!["2p"](https://raw.githubusercontent.com/samiraGh2023/pythonProjects/main/Users/samira/Desktop/2p.png)
 
