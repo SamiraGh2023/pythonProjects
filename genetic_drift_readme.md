@@ -7,6 +7,8 @@ genetic drift by creating a population of individuals and randomly
 selecting individuals to produce offspring in each generation.
 
 **Usage**
+!["Screenshot 2023-02-19 at 17 27 21"]([path/to/image.png](https://user-images.githubusercontent.com/125828094/219977486-0fe32d8b-38ef-43ad-a294-ba173d1fda1e.png))
+
 
 ![](media/image1.png){width="6.5in" height="0.4444444444444444in"}
 
