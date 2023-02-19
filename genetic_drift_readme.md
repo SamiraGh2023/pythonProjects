@@ -1,4 +1,4 @@
-**[Genetic Drift Simulation]{.underline}**
+**Genetic Drift Simulation**
 
 This script simulates a population undergoing genetic drift. Genetic
 drift is the random fluctuation of the frequency of alleles in a
