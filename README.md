@@ -7,10 +7,8 @@ genetic drift by creating a population of individuals and randomly
 selecting individuals to produce offspring in each generation.
 
 **Usage**
+
 <img width="634" alt="1p" src="https://user-images.githubusercontent.com/125828094/219978303-cafaa79a-9919-437e-93de-4c7e2aaffc94.png">
-
-
-!["1p"](https://raw.githubusercontent.com/samiraGh2023/pythonProjects/main/Users/samira/Desktop/1p.png)
 
 -   gen : Number of generations to simulate.
 
