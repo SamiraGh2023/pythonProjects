@@ -10,11 +10,6 @@ selecting individuals to produce offspring in each generation.
 
 !["1p"](https://raw.githubusercontent.com/username/repo-name/branch-name/Users/samira/Desktop/1p.png)
 
-!["1p"]([/Users/samira/Desktop/1p.png](https://user-images.githubusercontent.com/125828094/219977486-0fe32d8b-38ef-43ad-a294-ba173d1fda1e.png))
-
-
-![](media/image1.png){width="6.5in" height="0.4444444444444444in"}
-
 -   gen : Number of generations to simulate.
 
 **Classes**
