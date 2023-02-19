@@ -50,5 +50,5 @@ p-value.
 
 **Example**
 
-!["2p"](https://raw.githubusercontent.com/username/repo-name/branch-name/Users/samira/Desktop/2p.png)
+!["2p"](https://raw.githubusercontent.com/samiraGh2023/pythonProjects/genetic_drift_readme/Users/samira/Desktop/2p.png)
 
