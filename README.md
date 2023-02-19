@@ -49,8 +49,8 @@ Computes the exact test for Hardy Weinberg Equilibrium and returns the
 p-value.
 
 **Example**
+
 <img width="638" alt="2p" src="https://user-images.githubusercontent.com/125828094/219978378-1f9c4c68-9bcf-47d3-9fa6-19cbddb837ad.png">
 
 
-!["2p"](https://raw.githubusercontent.com/samiraGh2023/pythonProjects/main/Users/samira/Desktop/2p.png)
 
