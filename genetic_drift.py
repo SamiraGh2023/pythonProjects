@@ -121,7 +121,7 @@ def test_HWE(AA, Aa, aa):
 
         n = (n_A + n_a) / 2
 
-        # Formula for lecture 2
+        # Formula from Uni lecture 2
         return (factorial(n) * factorial(n_A)
                 * factorial(n_a) * pow(2, n_Aa)
                 / (factorial(n_AA) * factorial(n_Aa)
